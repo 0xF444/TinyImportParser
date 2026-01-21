@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TinyImportParser.cpp">
+    <ClCompile Include="TinyPEParser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
