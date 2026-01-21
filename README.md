@@ -1,17 +1,25 @@
-# TinyImportParser
+# TinyPEParser
 
 ## What is it?
 
-This is a small project that I did for fun that parses PE files and prints out the imported DLLs and their respective functions for x86/x64 compiled executables.
+This is a small project that I did for fun that parses PE files and prints out important PE structures such as imports or exports, etc..
 
 ## How to use it?
 
 Simply pass in the path to your PE image as a command line argument.
 
 ```batch
-TinyImportParser.exe <file>
+TinyPEParser.exe <file>
 ```
 
-## Future Updates
+## Checklist
 
-I might update this to implement API sets parsing.
+- [x] Import Parsing
+
+- [] Export Parsing
+
+- [] Entry Points and TLS callbacks
+
+- [] Relocation Table
+
+- [] Generic Header Information (MZ Header, PE Header and Section Headers)
