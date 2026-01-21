@@ -16,10 +16,10 @@ TinyPEParser.exe <file>
 
 - [x] Import Parsing
 
-- [] Export Parsing
+- [ ] Export Parsing
 
-- [] Entry Points and TLS callbacks
+- [ ] Entry Points and TLS callbacks
 
-- [] Relocation Table
+- [ ] Relocation Table
 
-- [] Generic Header Information (MZ Header, PE Header and Section Headers)
+- [ ] Generic Header Information (MZ Header, PE Header and Section Headers)
