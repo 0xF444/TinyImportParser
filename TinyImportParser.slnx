@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="TinyImportParser.vcxproj" />
+  <Project Path="TinyImportParser.vcxproj" Id="272d7619-6351-4bb6-8afd-45e6c96ff6eb" />
 </Solution>
